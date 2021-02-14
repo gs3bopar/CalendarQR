@@ -4,3 +4,11 @@ Calendar QR is an Android application. It allows event planners to generate and 
 | Main Page      | Creating an Event      |
 |----------------------------|----------------------------|
 | <img src="images/start.png"> | <img src="images/createevent.png"> |
+
+| Event QR Code      | Save to Local      |
+|----------------------------|----------------------------|
+| <img src="images/qrcode.png"> | <img src="images/savetolocal.png"> |
+
+| Add to Calendar      | Edit in Google Calendar      |
+|----------------------------|----------------------------|
+| <img src="images/addtocalendar.png"> | <img src="images/editingooglecal.png"> |
